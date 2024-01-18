@@ -1,0 +1,7 @@
+{
+    "java.project.outputPath": "bin",
+    "java.project.sourcePaths": [
+        "src",
+        "test/demo/src/main/java/com/example"
+    ]
+}

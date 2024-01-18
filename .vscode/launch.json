@@ -1,0 +1,165 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "FloatandDouble",
+            "request": "launch",
+            "mainClass": "FloatandDouble",
+            "projectName": "java_df775165"
+        },
+        {
+            "type": "java",
+            "name": "print",
+            "request": "launch",
+            "mainClass": "print",
+            "projectName": "java_df775165"
+        },
+        {
+            "type": "java",
+            "name": "PeterFizzBuzz",
+            "request": "launch",
+            "mainClass": "PeterFizzBuzz",
+            "projectName": "java_df775165"
+        },
+        {
+            "type": "java",
+            "name": "FizzBuzz",
+            "request": "launch",
+            "mainClass": "FizzBuzz",
+            "projectName": "java_df775165"
+        },
+        {
+            "type": "java",
+            "name": "FruitLoop",
+            "request": "launch",
+            "mainClass": "FruitLoop",
+            "projectName": "java_df775165"
+        },
+        {
+            "type": "java",
+            "name": "NeuralNetworkExample",
+            "request": "launch",
+            "mainClass": "NeuralNetworkExample",
+            "projectName": "java_df775165"
+        },
+        {
+            "type": "java",
+            "name": "Game",
+            "request": "launch",
+            "mainClass": "com.example.Game",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.example.App",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "java_df775165"
+        },
+        {
+            "type": "java",
+            "name": "AdvancedJavaGUI",
+            "request": "launch",
+            "mainClass": "AdvancedJavaGUI",
+            "projectName": "java_df775165"
+        },
+        {
+            "type": "java",
+            "name": "FinanceManagerApp",
+            "request": "launch",
+            "mainClass": "FinanceManagerApp",
+            "projectName": "java_df775165"
+        },
+        {
+            "type": "java",
+            "name": "TaskManagerApp",
+            "request": "launch",
+            "mainClass": "TaskManagerApp",
+            "projectName": "java_df775165"
+        },
+        {
+            "type": "java",
+            "name": "FileExplorerApp",
+            "request": "launch",
+            "mainClass": "FileExplorerApp",
+            "projectName": "java_df775165"
+        },
+        {
+            "type": "java",
+            "name": "AdvancedDrawingApp",
+            "request": "launch",
+            "mainClass": "AdvancedDrawingApp",
+            "projectName": "java_df775165"
+        },
+        {
+            "type": "java",
+            "name": "MazeGeneratorSolver",
+            "request": "launch",
+            "mainClass": "MazeGeneratorSolver",
+            "projectName": "java_df775165"
+        },
+        {
+            "type": "java",
+            "name": "GPTComplexGameUI",
+            "request": "launch",
+            "mainClass": "GPTComplexGameUI",
+            "projectName": "java_df775165"
+        },
+        {
+            "type": "java",
+            "name": "GPTcomplexgame",
+            "request": "launch",
+            "mainClass": "GPTcomplexgame",
+            "projectName": "java_df775165"
+        },
+        {
+            "type": "java",
+            "name": "SimpleGame",
+            "request": "launch",
+            "mainClass": "SimpleGame",
+            "projectName": "java_df775165"
+        },
+        {
+            "type": "java",
+            "name": "SimpleBattleship",
+            "request": "launch",
+            "mainClass": "SimpleBattleship",
+            "projectName": "java_df775165"
+        },
+        {
+            "type": "java",
+            "name": "TestTest",
+            "request": "launch",
+            "mainClass": "TestTest",
+            "projectName": "java_df775165"
+        },
+        {
+            "type": "java",
+            "name": "HamburgerRUNNER",
+            "request": "launch",
+            "mainClass": "HamburgerRUNNER",
+            "projectName": "java_df775165"
+        },
+        {
+            "type": "java",
+            "name": "ArgsAndParaRUNNER",
+            "request": "launch",
+            "mainClass": "ArgsAndParaRUNNER",
+            "projectName": "java_df775165"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": "Presence1"
+        }
+    ]
+}
